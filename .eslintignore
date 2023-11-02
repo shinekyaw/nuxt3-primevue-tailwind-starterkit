@@ -1,0 +1,11 @@
+node_modules
+*.log*
+**/.DS_Store
+.nuxt
+.nitro
+.cache
+.output
+.env
+yarn.lock
+dist
+package-lock.json
