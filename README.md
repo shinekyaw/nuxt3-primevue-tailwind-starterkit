@@ -1,75 +1,36 @@
-# Nuxt 3 Minimal Starter
+## Nuxt 3, PrimeVue, Tailwind CSS Starter Kit
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+**This is a starter project for building modern web applications. It includes everything you need to get started, including:
 
-## Setup
+* **[Nuxt 3](https://nuxt.com/):** A Vue.js framework that makes it easy to develop server-side rendered, static, and hybrid applications.
+* **[PrimeVue](https://primevue.org/):** A Vue UI component library that provides a wide range of components for building complex user interfaces.
+* **[Tailwind](https://tailwindcss.com/):** A utility-first CSS framework that gives you complete control over the look and feel of your application.
+* **[ESLint](https://nuxt.com/modules/eslint):** A linter that helps you identify and fix potential errors in your code.
+* **[Husky](https://typicode.github.io/husky/):** A git hook manager that helps you automate tasks such as linting and testing your code before committing it.
 
-Make sure to install the dependencies:
+**To get started:**
 
-```bash
-# npm
-npm install
+1. Clone the repository: `git clone https://github.com/shinekyaw/nuxt3-primevue-tailwind-starterkit.git`
+2. Install the dependencies: `cd nuxt3-primevue-tailwind-starterkit && npm install`
+3. Start the development server: `npm run dev`
 
-# pnpm
-pnpm install
+Your application will be available at `http://localhost:3000` by default.
 
-# yarn
-yarn install
+**Features:**
 
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+* **Nuxt 3:**
+    * Server-side rendering
+    * Automatic routing
+* **PrimeVue:**
+    * Over 80 Vue UI components
+    * A variety of themes and templates
+    * Easy to use and customize
+* **Tailwind CSS:**
+    * Utility-first CSS framework
+    * Complete control over the look and feel of your application
+* **ESLint:**
+    * Linting rules for Vue.js, JavaScript, and HTML
+    * Helps you identify and fix potential errors in your code
+* **Husky:**
+    * Git hook manager
+    * Automates tasks such as linting and testing your code before committing it
